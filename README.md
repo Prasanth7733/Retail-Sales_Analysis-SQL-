@@ -15,7 +15,7 @@ This project is designed to help beginners develop their SQL skills by analyzing
 
 ### 1. Database Setup
 
-- **Database Creation**: A database named `p1_retail_db` is created to store the retail sales data.
+- **Database Creation**: A database named `Sql_project1` is created to store the retail sales data.
 - **Table Creation**: A table named `retail_sales` is designed to store transaction details, including sale dates, customer information, product categories, quantities, prices, and total sales.
 
 ### 2. Data Exploration & Cleaning
